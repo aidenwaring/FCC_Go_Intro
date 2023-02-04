@@ -1,9 +1,9 @@
-package main
+package packages
 
 import (
 	"fmt"
-	"github.com/aidenwaring/FCC_Go_Intro/castle"
-	"github.com/aidenwaring/FCC_Go_Intro/river"
+	"github.com/aidenwaring/FCC_Go_Intro/packages/castle"
+	"github.com/aidenwaring/FCC_Go_Intro/packages/river"
 )
 
 func PackageGreetings() {
